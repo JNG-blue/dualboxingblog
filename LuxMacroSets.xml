@@ -1,0 +1,3024 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ISBoxerToolkitProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="41" VersionMinor="1" BuildDate="4/22/2016 3:49:39 PM">
+  <WoWMacroSet>
+    <Name>ClassBlank</Name>
+    <Description>This is a set of blank macros that you can adopt without having to do all of your
+      own additions. These macros use the keybinds: Shift+Alt+Q to Shift+Alt+], Shift+Alt+A to
+      Shift+Alt+', Shift+Alt+Z to Shift+Alt+/</Description>
+    <WoWMacros>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Q row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+Q</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>Q</Key>
+            <Code>16</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Q row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+W</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>W</Key>
+            <Code>17</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Q row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+E</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>E</Key>
+            <Code>18</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Q row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+R</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>R</Key>
+            <Code>19</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Q row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+T</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>T</Key>
+            <Code>20</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Q row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+Y</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>Y</Key>
+            <Code>21</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Q row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+U</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>U</Key>
+            <Code>22</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Q row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+I</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>I</Key>
+            <Code>23</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Q row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+O</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>O</Key>
+            <Code>24</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Q row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+P</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>P</Key>
+            <Code>25</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Q row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+[</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>[</Key>
+            <Code>26</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Q row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+]</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>]</Key>
+            <Code>27</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (A row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+A</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>A</Key>
+            <Code>30</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (A row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+S</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>S</Key>
+            <Code>31</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (A row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+D</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>D</Key>
+            <Code>32</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (A row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+F</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>F</Key>
+            <Code>33</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (A row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+G</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>G</Key>
+            <Code>34</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (A row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+H</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>H</Key>
+            <Code>35</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (A row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+J</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>J</Key>
+            <Code>36</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (A row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+K</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>K</Key>
+            <Code>37</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (A row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+L</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>L</Key>
+            <Code>38</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (A row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+;</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>;</Key>
+            <Code>39</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (A row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+'</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>'</Key>
+            <Code>40</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Z row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+Z</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>Z</Key>
+            <Code>44</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Z row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+X</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>X</Key>
+            <Code>45</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Z row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+C</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>C</Key>
+            <Code>46</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Z row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+V</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>V</Key>
+            <Code>47</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Z row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+B</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>B</Key>
+            <Code>48</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Z row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+N</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>N</Key>
+            <Code>49</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Z row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+M</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>M</Key>
+            <Code>50</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Z row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+,</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>,</Key>
+            <Code>51</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Z row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+.</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>.</Key>
+            <Code>52</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Z row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+/</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>/</Key>
+            <Code>53</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Num row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+`</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>`</Key>
+            <Code>41</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Num row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+1</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>1</Key>
+            <Code>2</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Num row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+2</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>2</Key>
+            <Code>3</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Num row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+3</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>3</Key>
+            <Code>4</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Num row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+4</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>4</Key>
+            <Code>5</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Num row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+5</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>5</Key>
+            <Code>6</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Num row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+6</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>6</Key>
+            <Code>7</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Num row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+7</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>7</Key>
+            <Code>8</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Num row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+8</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>8</Key>
+            <Code>9</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Num row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+9</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>9</Key>
+            <Code>10</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Num row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+0</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>0</Key>
+            <Code>11</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Num row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+-</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>-</Key>
+            <Code>12</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (Num row)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+=</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>=</Key>
+            <Code>13</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (F Keys)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+F1</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>F1</Key>
+            <Code>59</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (F Keys)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+F2</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>F2</Key>
+            <Code>60</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (F Keys)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+F3</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>F3</Key>
+            <Code>61</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (F Keys)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+F5</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>F5</Key>
+            <Code>63</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (F Keys)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+F6</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>F6</Key>
+            <Code>64</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (F Keys)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+F7</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>F7</Key>
+            <Code>65</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (F Keys)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+F8</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>F8</Key>
+            <Code>66</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (F Keys)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+F9</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>F9</Key>
+            <Code>67</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (F Keys)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+F10</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>F10</Key>
+            <Code>68</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (F Keys)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+F11</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>F11</Key>
+            <Code>87</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Nothing (F Keys)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+F12</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>F12</Key>
+            <Code>88</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+    </WoWMacros>
+  </WoWMacroSet>
+  <WoWMacroSet>
+    <Name>CompleteWarlock</Name>
+    <Description>This is a complete set of class specific macros for the warlock. 
+      
+      The keybinds used are all Shift+Alt+something
+      
+      It includes
+      individual spell macros for all spells and talent spells. The format of the macros is: /cast
+      Spell, or (for those designated "damage over time, dot") /castsequence reset=target spell,
+      null</Description>
+    <WoWMacros>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Dark Regeneration</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Dark Regeneration (talent)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+Q</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>Q</Key>
+            <Code>16</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Howl of Terror</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Howl of Terror (talent)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+W</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>W</Key>
+            <Code>17</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Mortal Coil</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Mortal Coil (talent)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+E</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>E</Key>
+            <Code>18</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Sacrificial Pact</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Sacrificial Pact (talent)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+R</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>R</Key>
+            <Code>19</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Dark Bargain</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Dark Bargain (talent)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+T</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>T</Key>
+            <Code>20</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Blood Horror</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Blood Horror (talent)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+Y</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>Y</Key>
+            <Code>21</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Burning Rush</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Burning Rush (speed, talent)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+U</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>U</Key>
+            <Code>22</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Unbound Will</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Unbound Will (talent)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+I</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>I</Key>
+            <Code>23</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Grimoire of Sacrifice</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Grimoire of Sacrifice (buff, talent)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+O</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>O</Key>
+            <Code>24</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Kil'jaeden's Cunning</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Kil'jaeden's Cunning (talent)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+P</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>P</Key>
+            <Code>25</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Mannoroth's Fury</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Mannoroth's Fury (talent)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+[</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>[</Key>
+            <Code>26</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Cataclysm</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Cataclysm (talent)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+]</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>]</Key>
+            <Code>27</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Shadowfury</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Shadowfury (talent)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+A</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>A</Key>
+            <Code>30</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/castsequence reset=target Agony, null</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Agony(dot)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+S</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>S</Key>
+            <Code>31</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Banish</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Banish(cc)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+D</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>D</Key>
+            <Code>32</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Command Demon</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Command Demon()</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+F</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>F</Key>
+            <Code>33</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/castsequence reset=target Corruption, null</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Corruption()</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+G</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>G</Key>
+            <Code>34</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Create Healthstone</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Create Healthstone(object)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+H</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>H</Key>
+            <Code>35</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Create Soulwell</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Create Soulwell(object)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+J</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>J</Key>
+            <Code>36</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Dark Intent</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Dark Intent(buff)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+K</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>K</Key>
+            <Code>37</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Dark Soul</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Dark Soul(cooldown)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+L</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>L</Key>
+            <Code>38</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Demonic Circle: Summon</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Demonic Circle: Summon(object)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+;</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>;</Key>
+            <Code>39</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Demonic Circle: Teleport</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Demonic Circle: Teleport(move)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+'</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>'</Key>
+            <Code>40</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Demonic Gateway</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Demonic Gateway(object)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+Z</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>Z</Key>
+            <Code>44</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Drain Life</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Drain Life()</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+X</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>X</Key>
+            <Code>45</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Drain Soul</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Drain Soul()</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+C</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>C</Key>
+            <Code>46</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Enslave Demon</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Enslave Demon()</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+V</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>V</Key>
+            <Code>47</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Eye of Kilrogg</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Eye of Kilrogg()</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+B</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>B</Key>
+            <Code>48</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Fear</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Fear()</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+N</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>N</Key>
+            <Code>49</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/castsequence reset=target Haunt, null</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Haunt()</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+M</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>M</Key>
+            <Code>50</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Health Funnel</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Health Funnel()</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+,</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>,</Key>
+            <Code>51</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Life Tap</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Life Tap()</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+.</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>.</Key>
+            <Code>52</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Ritual of Summoning</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Ritual of Summoning(object)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+/</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>/</Key>
+            <Code>53</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Seed of Corruption</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Seed of Corruption(aoe)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+`</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>`</Key>
+            <Code>41</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Soul Swap</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Soul Swap()</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+1</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>1</Key>
+            <Code>2</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Soulburn</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Soulburn()</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+2</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>2</Key>
+            <Code>3</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Soulshatter</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Soulshatter()</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+3</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>3</Key>
+            <Code>4</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Soulstone</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Soulstone(rez)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+4</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>4</Key>
+            <Code>5</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Summon Abyssal</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Summon Abyssal(cooldown)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+5</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>5</Key>
+            <Code>6</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Summon Terrorguard</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Summon Terrorguard(cooldown)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+6</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>6</Key>
+            <Code>7</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Summon Imp</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Summon Imp(pet)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+7</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>7</Key>
+            <Code>8</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Summon Voidwalker</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Summon Voidwalker(pet)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+8</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>8</Key>
+            <Code>9</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Summon Observer</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Summon Observer(pet)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+9</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>9</Key>
+            <Code>10</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Summon Shivarra</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Summon Shivarra(pet)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+0</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>0</Key>
+            <Code>11</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Unending Breath</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Unending Breath(buff)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+-</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>-</Key>
+            <Code>12</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Unending Resolve</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Unending Resolve()</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+=</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>=</Key>
+            <Code>13</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/castsequence reset=target Unstable Affliction, null</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Unstable Affliction()</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+F1</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>F1</Key>
+            <Code>59</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Demonic Leap</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Demonic Leap(move)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+F2</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>F2</Key>
+            <Code>60</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Hand of Gul'dan</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Hand of Gul'dan(aoe)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+F3</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>F3</Key>
+            <Code>61</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Hellfire</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Hellfire(aoe)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+F5</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>F5</Key>
+            <Code>63</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Metamorphosis</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Metamorphosis()</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+F6</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>F6</Key>
+            <Code>64</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Shadow Bolt</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Shadow Bolt()</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+F7</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>F7</Key>
+            <Code>65</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Soul Fire</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Soul Fire()</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+F8</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>F8</Key>
+            <Code>66</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Chaos Bolt</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Chaos Bolt()</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+F9</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>F9</Key>
+            <Code>67</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Conflagrate</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Conflagrate()</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+F10</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>F10</Key>
+            <Code>68</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Ember Tap</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Ember Tap()</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+F11</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>F11</Key>
+            <Code>87</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Fire and Brimstone</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Fire and Brimstone()</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+F12</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>F12</Key>
+            <Code>88</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Flames of Xeroth</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Flames of Xeroth()</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+Up</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>Up</Key>
+            <Code>328</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Havoc</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Havoc()</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+Down</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>Down</Key>
+            <Code>336</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/castsequence reset=target Immolate, null</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Immolate(dot)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+Left</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>Left</Key>
+            <Code>331</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Incinerate</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Incinerate()</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+Right</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>Right</Key>
+            <Code>333</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Rain of Fire</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Rain of Fire(gaoe)</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+Pause</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>Pause</Key>
+            <Code>69</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast Shadowburn</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>Shadowburn()</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+Insert</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>Insert</Key>
+            <Code>338</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>nothing()</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+Delete</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>Delete</Key>
+            <Code>339</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>nothing()</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+Home</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>Home</Key>
+            <Code>327</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>nothing()</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+End</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>End</Key>
+            <Code>335</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>nothing()</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+Page Up</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>Page Up</Key>
+            <Code>329</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+      <WoWMacro>
+        <PreCommand>None</PreCommand>
+        <MacroCommands>/cast nothing</MacroCommands>
+        <TargetLastTarget>false</TargetLastTarget>
+        <ColloquialName>nothing()</ColloquialName>
+        <Combo>
+          <Combo>Shift+Alt+Page Down</Combo>
+          <Modifiers>Shift Alt</Modifiers>
+          <Key>
+            <Key>Page Down</Key>
+            <Code>337</Code>
+          </Key>
+        </Combo>
+        <AllowCustomModifiers>
+          <LAlt>false</LAlt>
+          <RAlt>false</RAlt>
+          <LShift>false</LShift>
+          <RShift>false</RShift>
+          <LCtrl>false</LCtrl>
+          <RCtrl>false</RCtrl>
+        </AllowCustomModifiers>
+        <UseFTLModifiers>false</UseFTLModifiers>
+        <Description>This is a blank macro, enjoy.</Description>
+      </WoWMacro>
+    </WoWMacros>
+  </WoWMacroSet>
+</ISBoxerToolkitProfile>
